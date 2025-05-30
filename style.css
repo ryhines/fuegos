@@ -1,0 +1,74 @@
+body {
+    font-family: montserrat;
+    
+}
+header{
+    background-color: #8600b3;
+    padding: 10px;
+    color: white;
+}
+header a{
+    text-decoration: none;
+    background-color:  #f2ccff;
+    color: #8600b3;
+    border: 1px solid #f2ccff;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 25px;
+}
+h1{
+    text-align: center;
+    color: #8600b3;
+}
+
+footer{
+    background-color: #8600b3;
+    color: white;
+    padding: 20px;
+
+}
+
+footer p{
+    background-color: #f2ccff;
+    color: #8600b3;
+    padding: 10px;
+    border: 1px solid #f2ccff;
+    border-radius: 2px;
+}
+nav{
+    text-align: center;
+    margin: 15px;
+}
+nav a{
+    text-decoration: none;
+    background-color: #8600b3;
+    border: 1px solid #8600b3;
+    border-radius: 5px;
+    color: #f2ccff;
+    padding: 5px;
+    margin: 40px;
+
+}
+.product{
+    background-color: #c61aff;
+    padding: 20px;
+    color: white;
+    border: 1px solid #c61aff;
+    border-radius: 5px;
+}
+h2{
+    color: #8600b3;
+}
+.boton{
+    text-decoration: none;
+    background-color:  #f2ccff;
+    color: #8600b3;
+    border: 1px solid #f2ccff;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+body p{
+    font-size: 20px;
+}
